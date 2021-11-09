@@ -1,4 +1,7 @@
 
+If you try to tun this project , it may be that you see a 'wait operation timed out' exception.  Try to refresh the page.
+
+
 ...............         Old readme file , I need to rewrite it      ........................
 
 
