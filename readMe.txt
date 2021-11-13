@@ -1,7 +1,7 @@
 
 If you try to tun this project , it may be that you see a 'wait operation timed out' exception.  Try to refresh the page.
 
-In Pages_files you can see image from the project.
+In Pages_Images folder you can see image from the project.
 ............................................................................................
 
 ...............         Old readme file , I need to rewrite it      ........................
