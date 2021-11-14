@@ -1,3 +1,5 @@
+This repository is under construction.
+
 This  project is composed of the code in the course chapters.
 The name of the course is : ASP.NET Core MVC Tutorial for Beginners.
 The address of the course : https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/
