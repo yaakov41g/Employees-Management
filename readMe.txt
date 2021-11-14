@@ -1,5 +1,10 @@
+This  project is composed of the code in the course chapters.
+The name of the course is : ASP.NET Core MVC Tutorial for Beginners.
+The address of the course : https://www.pragimtech.com/courses/asp-net-core-mvc-tutorial-for-beginners/
+The name of the site which host this course and more other courses is : Pragim Technologies.
+The name of the lecturer is : Venkat. (I don't know his full name)
 
-If you try to tun this project , it may be that you see a 'wait operation timed out' exception.  Try to refresh the page.
+If you try to run this project ,  may be you see a 'wait operation timed out' exception.  Try to refresh the page.
 
 In Pages_Images folder you can see image from the project.
 ............................................................................................
