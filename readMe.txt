@@ -9,6 +9,11 @@ The name of the lecturer is : Venkat. (I don't know his full name)
 If you try to run this project ,  may be you see a 'wait operation timed out' exception.  Try to refresh the page.
 
 In Pages_Images folder you can see image from the project.
+
+                                                        ABOUT THE PROJECT
+                                                      ----------------------
+     
+     The application manages
 ............................................................................................
 
 ...............         Old readme file , I need to rewrite it      ........................
