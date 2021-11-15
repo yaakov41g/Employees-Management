@@ -13,7 +13,10 @@ In Pages_Images folder you can see image from the project.
                                                         ABOUT THE PROJECT
                                                       ----------------------
      
-     The application manages
+     The application manages employees administrations activities.   ...
+     
+     In order to register , you should have an email account with @pragimtech.com domain.  
+     if you want to use your existing account , please contact me :  (972+)054-7939856
 ............................................................................................
 
 ...............         Old readme file , I need to rewrite it      ........................
