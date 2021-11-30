@@ -60,7 +60,7 @@
                         <a class="nav-link" asp-controller="home" asp-action="create">Create</a>
                     </li>
                     @*If the user is signed-in and he is member of Administrator display 'Manage' in the menu*@
-                    @if (signInManager.IsSignedIn(User) && User.IsInRole("Administrator"))
+                    @if (signInManager.IsSignedIn(User) ) // && User.IsInRole("Administrator"))  // I commented this temporarily to enable a new user to register Without limitation.
                     {
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
