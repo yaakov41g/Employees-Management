@@ -10,6 +10,10 @@ If you try to run this project ,  may be you see a 'wait operation timed out' ex
 
 In Pages_Images folder you can see image from the project.
 
+To use this project, you have to copy it to visual studio as a project and run it.
+You should register to the application (by 'Register' menu item) with your real email address in order to confirm the registration.
+In case you didn't get the confirmation link in your email , expend EmailConfirmationLink folder in Solution Explorer panel ,open nlog file there pres control+leftbuttonclick the limk there.
+
                                                         ABOUT THE PROJECT
                                                       ----------------------
      
