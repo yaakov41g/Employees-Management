@@ -6,7 +6,7 @@ The address of the course : https://www.pragimtech.com/courses/asp-net-core-mvc-
 The name of the site which host this course and more other courses is : Pragim Technologies.
 The name of the lecturer is : Venkat. (I don't know his full name)
 
-If you try to run this project ,  may be you see a 'wait operation timed out' exception.  Try to refresh the page.
+If you try to run this project , you  may be see a 'wait operation timed out' exception.  Try to refresh the page.
 
 In Pages_Images folder you can see image from the project.
 
@@ -28,7 +28,7 @@ open nlog file there, pres control+leftbuttonclick the link there. Now you get t
 
 
 15:10 ‏14/‏10/‏2021
-אני מעריך שזוהי הגרסא של הפרויקט המלא.
+אני מעריך שזוהי הגרסה של הפרויקט המלא.
 
 20/10/2021
 הייתה שגיאת הרצה מספר חמש מאות ומשהו, 
