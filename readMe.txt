@@ -8,7 +8,7 @@ The name of the lecturer is : Venkat. (I don't know his full name)
 
 If you try to run this project , you  may be see a 'wait operation timed out' exception.  Try to refresh the page.
 
-In Pages_Images folder you can see images from the project.
+IN Pages_Images FOLDER YOU CAN SEE IMAGES FROM THE PROJECT.
 
 To use this project, you have to copy it to visual studio as a project and run it.
 You should register to the application (by 'Register' menu item) with your real email address in order to confirm the registration.
